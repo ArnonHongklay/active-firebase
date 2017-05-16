@@ -1,0 +1,3 @@
+module ActiveFirebase
+  # Your code goes here...
+end
